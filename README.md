@@ -1,3 +1,9 @@
+## This is a fork from RehabMan's laptop patch Repo
+
+just saving this for future use
+
+
+
 ## RehabMan's laptop patch repository
 
 This set of patches can be used in DSDT Editor or (preferably) MaciASL to apply
